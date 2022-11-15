@@ -1,0 +1,11 @@
+git init
+git clone 
+git pull
+
+git add 
+git add .
+git commot
+git push
+
+git log
+git log - decorate graph -online
